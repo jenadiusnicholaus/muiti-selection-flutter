@@ -1,7 +1,7 @@
 
 # muiti-selection-flutter
 
-I created , this app just to teach my students how make multi-selection in flutter, It Basically teaches how to populate a list of items from an array , Add new item to an array and how maintain the app state when working with an array. i was very excited when teaching this cool feature in flutter.
+I created, this app just to teach my students how to make multi-selection in a flutter, It Basically teaches how to populate a list of items from an array, Add a new item to an array and how to maintain the app state when working with an array. i was very excited when teaching this cool feature in a flutter.
 
 ## Build on
 
@@ -55,7 +55,6 @@ Give a ⭐️ if you like this project!s
 
 ## Acknowledgments
 
-
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
@@ -65,4 +64,3 @@ Feel free to check the [issues page](../../issues/).
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
